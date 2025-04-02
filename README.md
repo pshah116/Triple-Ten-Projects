@@ -1,6 +1,6 @@
 CO2 Emission and Fuel Economy Analysis
 
-This was a group project, we explored the relationship between fuel economy, CO2 emissions, and car features such as fuel type and drive type using a dataset containing vehicle specifications.
+This was a group project where we explored the relationship between fuel economy, CO2 emissions, and car features such as fuel type and drive type using a dataset containing vehicle specifications, CO2 emissions data, and fuel economy 
 
 ## Table of Contents
 
