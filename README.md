@@ -4,9 +4,8 @@ This was a group project, we explored the relationship between fuel economy, CO2
 
 Table of Contents--
 
-- [Project Overview](#project-overview)
-- [Data Set](#data-set)
-- [Recommendations](#recommendations)
+- [other](#other)
+  
   
 
 
@@ -81,3 +80,6 @@ Recommendations for fuel type:
 2) Disincentivize high-emission fuel types: Gas cars could be more subject to taxes, and higher prices are also more harmful to the environment
 
 3) Invest in infrastructure: expand charging stations to support more electric vehicles
+
+
+   ## other
