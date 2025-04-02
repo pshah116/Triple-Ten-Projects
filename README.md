@@ -62,7 +62,7 @@ What influence does drive type (FWD, AWD, 4WD, etc.) and engine type have on fue
 4) Along with drive type, the engine type also plays an important role also with helping the environment reduce CO2 emissions. 4 cylinder vehicles have the lowest CO2 emissions on average  ![2025-04-02_11h16_26](https://github.com/user-attachments/assets/2d1dfc44-c8c1-4ed8-b84c-72150b8eb240)
 
 
-✅ Recommendations--
+✅ ## Recommendations--
 
 Recommendations for drive type:
 1) Promote and encourage use and development of Front-Wheel Drive and 2-Wheel Drive platforms for companies and consumers focused on fuel efficiency and emissions reduction.
