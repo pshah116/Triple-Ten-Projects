@@ -24,7 +24,8 @@ Excel- Data Cleaning
 
 Tableau- Data visualization reporting
 
-## Data Cleaning 🧹 
+## Data Cleaning 
+🧹
 
 I performed data cleaning in Excel to prepare the dataset for analysis:
 
