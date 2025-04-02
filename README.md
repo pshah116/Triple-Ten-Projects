@@ -38,7 +38,7 @@ I performed data cleaning in Excel to prepare the dataset for analysis:
 
 -Applied Excel functions like IF, ROUNDUP, TRIM, PROPER, etc to standardize and format the data.
 
--Created new columns and formatted dates into the proper time (month/year)
+-Created new columns and formatted dates into the proper form (month/year)
 
 This process ensured a clean, consistent dataset that could support meaningful insights.
 
