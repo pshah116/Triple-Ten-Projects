@@ -2,6 +2,15 @@ CO2 Emission and Fuel Economy Analysis
 
 This was a group project, we explored the relationship between fuel economy, CO2 emissions, and car features such as fuel type and drive type using a dataset containing vehicle specifications.
 
+Table of Contents--
+
+- [Project Overview](#project-overview)
+- [Data Set](#data-set)
+- [Recommendations](#recommendations)
+  
+
+
+
 Project Overview--
 
 This project analyzes the relationship between vehicle characteristics—such as drive type, fuel type, and engine size—and their impact on CO2 emissions and fuel economy. Using a real-world dataset of vehicle specifications, I performed data cleaning, we completed exploratory data analysis (EDA), and I built an interactive story dashboard in tableau to uncover environmental trends and highlight the efficiency of different vehicle types. The goal was to identify which types of vehicles are more environmentally friendly, investigate the rapid improvements in electric vehicles (EVs), and provide data-driven recommendations for consumers, and manufacturers aiming to reduce emissions and promote sustainable transportation.
