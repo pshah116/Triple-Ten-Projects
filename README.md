@@ -4,7 +4,10 @@ This was a group project, we explored the relationship between fuel economy, CO2
 
 Table of Contents--
 
-- [other](#other)
+- [Data Cleaning](#data-cleaning)
+- [EDA & Storytelling](eda-storytelling)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
   
   
 
