@@ -11,21 +11,21 @@ Table of Contents--
 
 
 
-Project Overview--
+## Project Overview
 
 This project analyzes the relationship between vehicle characteristics—such as drive type, fuel type, and engine size—and their impact on CO2 emissions and fuel economy. Using a real-world dataset of vehicle specifications, I performed data cleaning, we completed exploratory data analysis (EDA), and I built an interactive story dashboard in tableau to uncover environmental trends and highlight the efficiency of different vehicle types. The goal was to identify which types of vehicles are more environmentally friendly, investigate the rapid improvements in electric vehicles (EVs), and provide data-driven recommendations for consumers, and manufacturers aiming to reduce emissions and promote sustainable transportation.
 
-Data Set--
+## Data Set
 
 The data set was sourced by Triple Ten and the "Raw Data set.xlsx" file contains important information regarding vehicle types, fuel economy, and CO2 emissions
 
-Tools Used--
+## Tools Used
 
 Excel- Data Cleaning
 
 Tableau- Data visualization reporting
 
-🧹 Data Cleaning--
+## Data Cleaning 🧹 
 
 I performed data cleaning in Excel to prepare the dataset for analysis:
 
@@ -39,7 +39,7 @@ I performed data cleaning in Excel to prepare the dataset for analysis:
 
 This process ensured a clean, consistent dataset that could support meaningful insights.
 
-📊 EDA & Storytelling--
+## EDA & Storytelling 📊 
 
 After cleaning the data, we conducted exploratory data analysis (EDA) and I built an interactive visual story in Tableau to uncover trends and relationships. The project focused on three main questions:
 
@@ -49,7 +49,7 @@ How do fuel types differ in efficiency and environmental impact?
 
 What influence does drive type (FWD, AWD, 4WD, etc.) and engine type have on fuel efficiency and CO2 output?
 
-🌍 Key Findings--
+## Key Findings 🌍 
 1) The blue line is for electric vehicles (EVs) which have shown the most significant improvement in fuel economy since 1998, with drastically lower CO2 emissions.
 ![2025-04-02_11h10_56](https://github.com/user-attachments/assets/93e24072-2d4c-49c8-9373-5bd725f48de5)
 
