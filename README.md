@@ -90,4 +90,4 @@ Recommendations for fuel type:
 3) Invest in infrastructure: expand charging stations to support more electric vehicles
 
 
-   ## other
+ 
