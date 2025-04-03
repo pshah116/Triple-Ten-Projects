@@ -1,5 +1,5 @@
 
-Portfolio of completed projects I worked on while attending the PROGRAM NAME TripleTen Bootcamp.
+Portfolio of completed projects I worked on while attending the TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
