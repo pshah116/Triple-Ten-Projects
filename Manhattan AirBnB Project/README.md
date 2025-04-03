@@ -6,10 +6,13 @@ This project was the first independent analysis I completed as part of the Tripl
 
 The original data was one Google spreadsheet file provided by TripleTen, it includes: 
 
-•	'Air BnB listing.xlsx': each row corresponds to one listing on Airbnb in September 2022
-o	'data_dictionary': summary of field titles 
-o	'listings': unique listings available with available data
-o	'calendar': listings with upcoming availabilities 
+-	'Air BnB listing.xlsx': each row corresponds to one listing on Airbnb in September 2022
+
+-	'data_dictionary': summary of field titles 
+
+-	'listings': unique listings available with available data
+
+-	'calendar': listings with upcoming availabilities 
 
 
 ## Table of Contents:
