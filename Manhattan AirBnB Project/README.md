@@ -1,6 +1,7 @@
 ## Project Overview: 
 
-This project was the first independent analysis I completed as part of the TripleTen Business Intelligence Analytics Program. It showcases my skills in advanced spreadsheet techniques and data-driven decision-making. Using real Airbnb listing data from Manhattan, NYC, I conducted in-depth analysis to help a client identify the most profitable vacation rental investment based on property type, location, and pricing trends. An 8 page google spreadsheet  featuring organized tabs, cleaned and processed datasets, detailed data analysis, interactive pivot tables, and visual insights through bar charts. You can access this HERE
+This project was the first independent analysis I completed as part of the TripleTen Business Intelligence Analytics Program. It showcases my skills in advanced spreadsheet techniques and data-driven decision-making. Using real Airbnb listing data from Manhattan, NYC, I conducted in-depth analysis to help a client identify the most profitable vacation rental investment based on property type, location, and pricing trends. An 8 page google spreadsheet  featuring organized tabs, cleaned and processed datasets, detailed data analysis, interactive pivot tables, and visual insights through bar charts. You can access this [HERE](https://docs.google.com/spreadsheets/d/1zwB2ZrLlgm9qiAZPNZt3fdkrLzI40f7p-ygiL3GLIvw/edit?usp=sharing)
+
 
 ## Data Set:
 
