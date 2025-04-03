@@ -5,7 +5,7 @@ This project was the first independent analysis I completed as part of the Tripl
 
 ## Data Set:
 
-The original data was one Google spreadsheet file provided by TripleTen, it includes: 
+The original data was a Google spreadsheet file provided by TripleTen, it includes: 
 
 -	'data_dictionary': summary of field titles 
 
