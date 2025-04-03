@@ -5,7 +5,6 @@ Portfolio of completed projects I worked on while attending the TripleTen Bootca
 | :-----------: | ----------- |----------- |
 | 1 | [Music Streaming Industry](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Music%20Streaming%20Industry) | DESCRIPTION HERE. |
 | 2 | [Shopify Application Analysis](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Shopify%20Application%20Analysis) | DESCRIPTION HERE. |
-| 3 | [PROJECT NAME](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Shopify%20Application%20Analysis) | DESCRIPTION HERE. |
 | 4 | [Superstore Analysis](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Superstore%20Analysis) | DESCRIPTION HERE. |
 | 5 | [Superstore Returns Analysis](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Superstore%20Returns%20Analysis) | DESCRIPTION HERE. |
 | 6 | [Zomato](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Zomato) | DESCRIPTION HERE. |
