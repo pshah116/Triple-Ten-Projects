@@ -1,6 +1,9 @@
 CO2 Emission and Fuel Economy Analysis
 
-This was a group project where we explored the relationship between fuel economy, CO2 emissions, and car features such as fuel type and drive type using a dataset containing vehicle specifications, CO2 emissions data, and fuel economy 
+This was a Code Pudding project where we worked in teams to solve a real world problem. As a group project we explored the relationship between fuel economy, CO2 emissions, and car features such as fuel type and drive type using a dataset containing vehicle specifications, CO2 emissions data, and fuel economy. We completed the project and presented it to the judges on tableau.
+
+The TABLEAU link to the project can be accesed [HERE](https://public.tableau.com/app/profile/prerak.shah4558/viz/CodeJam/Story1)
+
 
 ## Table of Contents
 
