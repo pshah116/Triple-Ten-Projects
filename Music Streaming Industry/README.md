@@ -28,8 +28,34 @@ You can find the full report [HERE](https://docs.google.com/document/d/1Yzn532J3
 
   ## Description
   -3 Page Google Document
+  
   -Includes Key Findings & Recommendations for each visual, and a concise conclusion
 
   ## Data
+ 
+The dataset provided by TripleTen came in the form of a Google Spreadsheet and contained the following key fields:
+
+Year – Indicates the year in which the data was collected for each category.
+
+User Tier – A categorical field distinguishing between Free and Paid subscribers.
+
+Genre – Represents the music genre that users engaged with.
+
+Number of Users – The total count of users for each combination of year, user tier, and genre.
+
+Tracks Listened – The total number of tracks played for each corresponding segment.
+
+
+## Assumptions
+
+Data Completeness: The spreadsheet provided contains all the essential data required to effectively analyze user engagement and address business challenges on the Fresh Beats platform.
+
+Data Reliability: The analysis is based on the assumption that the dataset is accurate and truly represents user behavior on the platform.
+
+Validity of Insights and Visuals: It is assumed that all insights and visualizations generated from the data are trustworthy and offer a clear, accurate reflection of the trends within the dataset.
+
+Appropriateness of Report Format: The report template used is assumed to be suitable for communicating key findings and strategic recommendations to stakeholders.
+
+## Key Findings
 
 
