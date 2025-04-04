@@ -10,7 +10,7 @@ Portfolio of completed projects I worked on while attending the TripleTen Bootca
 | 5 | [Zomato](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Zomato) |  |
 | 6 | [Zuber SQL Database Rideshare](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Zuber%20SQL%20Database%20Rideshare) | Conducted a demand analysis for the rideshare company Zuber to uncover passenger behavior patterns and assess how external factors influenced ride activity and user preferences using SQL database  |
 | 7 | [CO2 Emission and Fuel Economy Analysis](https://github.com/pshah116/Triple-Ten-Projects/tree/main/CO2%20Emission%20and%20Fuel%20Economy%20Analysis) | In this project, my team was asked to create a visual essay from one of six datasets. We analyzed CO2 and Fuel Economy data using EXCEL and focused on the correlations between CO2 emission, and fuel economy by vehicle characteristics and presented the findings in a TABLEAU presentation. |
-| 8 | [Cohort Analysis E-commerce](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Cohort%20Analysis%20E-Commerce) | Analyzed user behavior for an e-commerce company to uncover retention rates and conversion issues |
+| 8 | [Cohort Analysis E-commerce](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Cohort%20Analysis%20E-Commerce) |  Performed exploratory data analysis, build a conversion funnel for the e-commerce business' website, and performed customer base cohort analysis |
 | 9| [Manhattan AirBnB Project](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Manhattan%20AirBnB%20Project) | Analysis of Airbnb data from New York City to identify the most profitable rental properties across various neighborhoods and property types |
 
 
