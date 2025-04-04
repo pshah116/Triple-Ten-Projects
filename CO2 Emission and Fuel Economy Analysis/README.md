@@ -28,7 +28,7 @@ Key strategies to support the shift toward cleaner, more efficient vehicle techn
 
 ## Data Set
 
-The data set was sourced by Triple Ten and the "Raw Data CO2 emission and fuel economy.xlsx" file contains all relevant data regarding vehicle types, fuel economy, and CO2 emissions used for our project presentation
+The data set "Raw Data CO2 emission and fuel economy.xlsx" file contains all relevant data regarding vehicle types, fuel economy, and CO2 emissions used for our project presentation
 
 ## Tools Used
 
