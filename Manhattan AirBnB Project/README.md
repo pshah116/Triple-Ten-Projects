@@ -1,6 +1,23 @@
+
+## Table of Contents:
+-[Project Overview](#project-overview)
+-[Executive Summary](#executive-summary)
+-[Data Set](#data-set)
+- [Objectives](#objectives)
+- [Process Overview](#process-overview)
+- [Assumptions](#assumptions)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+
+
+
 ## Project Overview: 
 
 This project was the first independent analysis I completed as part of the TripleTen Business Intelligence Analytics Program. It showcases my skills in advanced spreadsheet techniques and data-driven decision-making. Using real Airbnb listing data from Manhattan, NYC, I conducted in-depth analysis to help a client identify the most profitable vacation rental investment based on property type, location, and pricing trends. An 8 page google spreadsheet  featuring organized tabs, table of contents, executive summary, cleaned and processed datasets, interactive pivot tables, and visual insights through bar and pie charts. You can access the cleaned and processed file [HERE](https://docs.google.com/spreadsheets/d/1zwB2ZrLlgm9qiAZPNZt3fdkrLzI40f7p-ygiL3GLIvw/edit?usp=sharing)
+
+## Executive Summary:
+The findings revealed consistent demand across several key neighborhoods, with the Lower East Side, Hell’s Kitchen, and Midtown emerging as standout locations. Property size preferences varied by area—one-bedroom units proved most popular overall, while certain neighborhoods favored studios or two-bedroom listings. Revenue estimates highlighted that well-positioned properties in these areas could generate substantial monthly and annual income. Based on these insights, strategic recommendations were made to guide investment decisions. These included prioritizing high-demand unit types in top-performing neighborhoods, aligning property offerings with local preferences, and targeting premium listings in areas with the strongest earning potential
+
 
 
 ## Data Set:
@@ -17,12 +34,6 @@ The original data was a Google spreadsheet file provided by TripleTen, it includ
   
 
 
-## Table of Contents:
-- [Objectives](#objectives)
-- [Process Overview](#process-overview)
-- [Assumptions](#assumptions)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
 
 
 
