@@ -1,13 +1,20 @@
+## Table of Contents
 
-## Table of Contents:
 -[Project Overview](#project-overview)
+
 -[Executive Summary](#executive-summary)
+
 -[Data Set](#data-set)
-- [Objectives](#objectives)
-- [Process Overview](#process-overview)
-- [Assumptions](#assumptions)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
+
+-[Objectives](#objectives)
+
+-[Process Overview](#process-overview)
+
+-[Assumptions](#assumptions)
+
+-[Key Findings](#key-findings)
+
+-[Recommendations](#recommendations)
 
 
 
