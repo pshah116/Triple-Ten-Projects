@@ -78,10 +78,12 @@ Included organizational tools such as an Executive Summary, Table of Contents, A
 
 ## Key Findings
 1.	The top recommended neighborhoods for vacation rentals are as follows: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Upper East Side.
+   ![2025-04-04_14h11_36](https://github.com/user-attachments/assets/1fc256d3-b76b-4fd9-955a-fe7eaec9c971)
 
-2.	One-bedroom rentals are the most popular overall. In the Lower East Side, one-bedroom units are ideal to align with demand. Hells Kitchen shows a higher preference for two-bedroom properties, while Midtown renters tend to favor studio apartments
 
-3.	The top-3 highest potential earning properties for a 30 day revenue were estimated to earn $29,940 (Midtown neighborhood), $26,100 (Hells kitchen neighborhood), and $22,800 (Lower east side neighborhood), respectively. The expected annual earnings for each property were $359,280, $313,200, and $273,600, respectively.
+3.	One-bedroom rentals are the most popular overall. In the Lower East Side, one-bedroom units are ideal to align with demand. Hells Kitchen shows a higher preference for two-bedroom properties, while Midtown renters tend to favor studio apartments
+
+4.	The top-3 highest potential earning properties for a 30 day revenue were estimated to earn $29,940 (Midtown neighborhood), $26,100 (Hells kitchen neighborhood), and $22,800 (Lower east side neighborhood), respectively. The expected annual earnings for each property were $359,280, $313,200, and $273,600, respectively.
 
 ## Recommendations
 
