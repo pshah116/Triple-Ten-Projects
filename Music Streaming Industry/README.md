@@ -19,7 +19,8 @@ In this project, I compiled a concise stakeholder report summarizing key insight
 The report concludes with data-driven recommendations focused on user growth, cross-genre engagement strategies, and targeted marketing efforts—providing Fresh Beats with actionable insights to drive continued success and platform-wide growth. Drawing from data collected between 2018 and 2023, the analysis reflects a strong upward trend in user activity, particularly among paid users, and highlights the platform’s ongoing growth across multiple genres. The findings emphasize the importance of strategic focus on underperforming areas to ensure balanced development across the platform. With paid users consistently showing higher levels of engagement, there is a clear opportunity to optimize conversion strategies for free users and strengthen engagement in less active genres. This report delivers actionable insights to support decision-making, enhance user experience, and contribute to the long-term growth and success of Fresh Beats as a leader in the music streaming industry.
 
 
-You can find the full report [HERE](https://docs.google.com/document/d/11qcxgi_6UHA_xaFx31wD6IUf58KZFYeKvmmisz08XOw/edit?usp=sharing)
+You can find the full report [HERE](https://docs.google.com/document/d/1Yzn532J3bJbHX_dzimELq2_G1HZcML3XiQZEomDMTeQ/edit?usp=sharing)
+
 
 ![2025-04-04_11h16_14](https://github.com/user-attachments/assets/6e58da26-7b84-439c-80af-6e49c4f70f41)
 
