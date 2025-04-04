@@ -58,4 +58,43 @@ Appropriateness of Report Format: The report template used is assumed to be suit
 
 ## Key Findings
 
+Artist promotion effectiveness:
+
+ Promote the most frequently streamed or favorited artists in the Electronic, Hip Hop, and Rock genres to help build stronger, dedicated audiences within these categories.
+
+![2025-04-04_12h08_34](https://github.com/user-attachments/assets/97e43ccf-05f6-4ac4-97b5-046acb3d3cbe)
+
+
+User engagement and conversion:
+Paid users demonstrate higher engagement, with greater listening activity and stronger retention. Encouraging free users to upgrade to paid subscriptions is a crucial strategic focus.
+
+![2025-04-04_12h12_15](https://github.com/user-attachments/assets/600bb213-4a6d-451e-92b9-cb5717e2ced5)
+
+
+Genre promotion for emerging artists:
+
+Rock tends to resonate more with free users, whereas Indie is favored by paid subscribers. Customizing music recommendations based on user tier can enhance overall engagement.
+![2025-04-04_12h28_33](https://github.com/user-attachments/assets/bffb1c6d-478e-4d58-a5d4-29acc97feb7a)
+
+
+## Recommendations
+
+-Explore Emerging Music Trends:
+Launch focused marketing efforts and grow the music catalog specifically for Electronic and Hip-Hop genres to capture growing interest and boost engagement
+
+-Paid vs Free Users:
+Introduce limited-time offers and flexible subscription tiers to encourage free users to upgrade. Leveraging popular features or high-performing genres can help drive continued user growth and convert free users to paid
+
+-Pop Genre Decline: 
+Examine the factors contributing to the recent decline in Pop music engagement. Ask users their opinion on what their preferences are for artists and songs in Pop music to increase contribution
+
+-Promote Indie Genre:
+Indie has consistently been successful with no users below 70 at all times throughout 2018-2023. Focus on continued growth and development  as this is the strongest genre
+
+
+
+
+
+
+ 
 
