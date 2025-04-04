@@ -45,6 +45,9 @@ Number of Users – The total count of users for each combination of year, user 
 
 Tracks Listened – The total number of tracks played for each corresponding segment.
 
+-View the raw data [HERE](https://docs.google.com/spreadsheets/d/1bwTLEGFiqEsPi56XkiuhAdv7QfTQLHvW_5aUPOd1adQ/edit?usp=sharing)
+
+
 
 ## Assumptions
 
