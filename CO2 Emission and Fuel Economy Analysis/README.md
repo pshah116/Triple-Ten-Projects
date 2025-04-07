@@ -20,7 +20,7 @@
 
 This was a Code Pudding project where we worked in teams to solve a real world problem. As a group we explored the relationship between fuel economy, CO2 emissions, and car features such as fuel type and drive type using a dataset containing vehicle specifications, CO2 emissions data, and fuel economy. We completed the project and presented it to the judges on tableau. This project analyzes the relationship between vehicle characteristics—such as drive type, fuel type, and engine size—and their impact on CO2 emissions and fuel economy. Using a real-world dataset of vehicle specifications, I performed data cleaning, we completed exploratory data analysis (EDA), and I built an interactive story dashboard in tableau to uncover environmental trends and highlight the efficiency of different vehicle types. The goal was to identify which types of vehicles are more environmentally friendly, investigate the rapid improvements in electric vehicles (EVs), and provide data-driven recommendations for consumers, and manufacturers aiming to reduce emissions and promote sustainable transportation.
 
-The TABLEAU link to the project can be accesed [HERE](https://public.tableau.com/shared/SGMXK62CY?:display_count=n&:origin=viz_share_link)
+The TABLEAU link can be accesed [HERE](https://public.tableau.com/shared/SGMXK62CY?:display_count=n&:origin=viz_share_link)
 
 ## Executive Summary
 
