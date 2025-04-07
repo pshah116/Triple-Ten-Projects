@@ -1,4 +1,4 @@
-SHOPIFY Power BI 
+## SHOPIFY POWER BI
 
 ## Table of contents
 [Project Background](#project-background)
