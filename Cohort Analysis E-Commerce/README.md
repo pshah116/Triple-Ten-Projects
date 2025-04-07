@@ -67,23 +67,23 @@ You can view the raw data [HERE](https://docs.google.com/spreadsheets/d/1yuavBZ4
 
 ## Assumptions
 
--The "raw_user_activity" sheet contains all user interactions on the website within the specified timeframe.
+1) The "raw_user_activity" sheet contains all user interactions on the website within the specified timeframe.
 
--Any missing data or irregularities are minimal and not significant enough to impact the analysis.
+2) Any missing data or irregularities are minimal and not significant enough to impact the analysis.
 
--The structure and formatting of the dataset, including column names and data types, are accurate and consistently maintained.
+3) The structure and formatting of the dataset, including column names and data types, are accurate and consistently maintained.
 
 ## Key Findings
 
-High Drop-Off After Viewing:
+1) High Drop-Off After Viewing:
 
 While over 10,000 unique users viewed products, only about 29% added items to their cart, indicating a significant drop-off between interest and purchase intent.
 
-Purchase Completion Rate from Cart is Moderate:
+2) Purchase Completion Rate from Cart is Moderate:
 
 Of the users who added items to their cart, approximately 36% completed a purchase, suggesting room for improvement in the checkout experience or buyer confidence.
 
-Overall Conversion is Low:
+3) Overall Conversion is Low:
 
 The total conversion from initial product view to completed purchase is just 10.34%, highlighting a need to optimize the full conversion funnel, especially the transition from viewing to cart.
 
@@ -91,15 +91,15 @@ The total conversion from initial product view to completed purchase is just 10.
 
 ## Recommendations
 
--Investigate drop-off points in the conversion funnel to reduce cart abandonment—determine whether the product page or checkout process contributes more to user drop-off.
+1) Investigate drop-off points in the conversion funnel to reduce cart abandonment—determine whether the product page or checkout process contributes more to user drop-off.
 
--Optimize user experience by streamlining high-friction areas in the shopping journey based on funnel performance data.
+2) Optimize user experience by streamlining high-friction areas in the shopping journey based on funnel performance data.
 
--Boost customer engagement and retention through targeted marketing strategies like personalized offers, loyalty programs, and enhanced customer support.
+3) Boost customer engagement and retention through targeted marketing strategies like personalized offers, loyalty programs, and enhanced customer support.
 
--Collect and analyze user feedback to gain deeper insights into customer needs and tailor future improvements more effectively.
+4) Collect and analyze user feedback to gain deeper insights into customer needs and tailor future improvements more effectively.
 
--Maintain continuous cohort tracking to monitor shifts in user behavior and adjust strategies accordingly with real-time data.
+5) Maintain continuous cohort tracking to monitor shifts in user behavior and adjust strategies accordingly with real-time data.
 
 
 
