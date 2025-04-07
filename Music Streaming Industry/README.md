@@ -82,16 +82,16 @@ Rock tends to resonate more with free users, whereas Indie is favored by paid su
 
 ## Recommendations
 
--Explore Emerging Music Trends:
+1) Explore Emerging Music Trends:
 Launch focused marketing efforts and grow the music catalog specifically for Electronic and Hip-Hop genres to capture growing interest and boost engagement
 
--Paid vs Free Users:
+2) Paid vs Free Users:
 Introduce limited-time offers and flexible subscription tiers to encourage free users to upgrade. Leveraging popular features or high-performing genres can help drive continued user growth and convert free users to paid
 
--Pop Genre Decline: 
+3) Pop Genre Decline: 
 Examine the factors contributing to the recent decline in Pop music engagement. Ask users their opinion on what their preferences are for artists and songs in Pop music to increase contribution
 
--Promote Indie Genre:
+4) Promote Indie Genre:
 Indie has consistently been successful with no users below 70 at all times throughout 2018-2023. Focus on continued growth and development  as this is the strongest genre
 
 
