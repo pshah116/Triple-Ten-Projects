@@ -24,6 +24,7 @@ The TABLEAU link to the project can be accesed [HERE](https://public.tableau.com
 
 ## Executive Summary
 Key strategies to support the shift toward cleaner, more efficient vehicle technologies is needed. Promoting front-wheel and two-wheel drive systems for their fuel efficiency, alongside the importance of lightweight engine design across all drive types is critical. Hybrid alternatives are recommended for those needing AWD or 4WD to balance performance with environmental impact. The rising adoption of electric vehicles and the innovations driving their improved efficiency is growing at a rapid rate. Encourage EV use, discourage high-emission fuel types, and expand charging infrastructure are essential steps to support this transition. Together, these actions pave the way for a more sustainable and cost-effective future in the automotive industry.
+![2025-04-02_11h10_56](https://github.com/user-attachments/assets/f2569b7b-545e-436e-ab25-734ab2361f8a)
 
 
 ## Data Set
