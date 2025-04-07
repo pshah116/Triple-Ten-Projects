@@ -62,16 +62,22 @@ The data was one Excel spreadsheet file provided by TripleTen:
 ## Key Findings
 
 1) Top-performing subcategories based on profit include Copiers, Phones, and Accessories, while Tables, Bookcases, and Supplies are contributing to the largest losses.
+   ![2025-04-07_12h41_19](https://github.com/user-attachments/assets/28b904e1-8ecb-4071-8b1b-6d7d247ec589)
 
-2) In terms of regional performance, Office Supplies and Technology generate strong profits in the West, whereas Office Supplies and Furniture are major loss drivers in the Central region.
 
-3) Advertising efforts should be strategically focused by state and season, with campaigns in Indiana (October), Vermont (November), and Rhode Island (December).
 
-4) Product returns are a critical issue, with some items being returned at rates as high as 100%, severely impacting profitability.
+2) Advertising efforts should be strategically focused by state and season, with campaigns in Indiana (October), Vermont (November), and Rhode Island (December).
+![2025-04-07_12h43_52](https://github.com/user-attachments/assets/1e5542d5-d233-48e1-944d-af765d2157ab)
 
-5) A number of customers also show return rates of up to 100%, indicating a need for improved return policies or customer targeting.
 
-6) When comparing average profit against return rates, certain products are clearly not viable for continued sale, while many others require further evaluation.
+5) Product returns are a critical issue, with some items being returned at rates as high as 100%, severely impacting profitability.
+ ![2025-04-07_12h41_51](https://github.com/user-attachments/assets/dcbdca1f-83a1-492b-b16e-f52356420fc5)
+
+
+7) A number of customers also show return rates of up to 100%, indicating a need for improved return policies or customer targeting.
+   ![2025-04-07_12h44_35](https://github.com/user-attachments/assets/52e3fb3a-60c9-491f-8957-bbe0626550fb)
+
+
 
 ## Recommendations
 
