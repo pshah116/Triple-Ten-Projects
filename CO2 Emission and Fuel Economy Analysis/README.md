@@ -70,10 +70,10 @@ What influence does drive type (FWD, AWD, 4WD, etc.) and engine type have on fue
 ## Key Findings
  🌍 
  
-1) The blue line is for electric vehicles (EVs) which have shown the most significant improvement in fuel economy since 1998, with drastically lower CO2 emissions.
+1) The blue line is for electric vehicles (EVs) which have shown the most significant improvement in fuel economy since 1998
 ![2025-04-02_11h10_56](https://github.com/user-attachments/assets/93e24072-2d4c-49c8-9373-5bd725f48de5)
 
-2) Overall the best choice for average mileage and lowest CO2 emissions is Front wheel drive and a close second option is All wheel drive.
+2) Overall the best choice for average mileage (orange circle) and lowest CO2 emissions (blue circle) is Front wheel drive and a close second option is All wheel drive.
 ![2025-04-02_11h15_30](https://github.com/user-attachments/assets/1340cca8-7ddb-4852-88c4-e43ffdbe18d1)
 
 3) Drive type plays a major role in emissions, with 2-wheel and front-wheel drive being more environmentally friendly options. This data was included in the data set as a fuel efficiency score created by the Environmental Protection Agency (EPA). The EPA creates protective standards to assess vehicle conditions according to multiple criterias to determine their impact on the environment 
