@@ -74,6 +74,127 @@ improved customer retention strategies, and reassessment of underperforming time
 
 ## Data Cleaning
 
+To ensure accuracy, consistency, and usability of the dataset for analysis, several essential data cleaning steps were performed:
+
+1) Handled missing ratings: Replaced entries marked as "--" in the rating column with a new category labeled “No Rating” for clarity in analysis.
+
+2) Standardized city names: Cleaned and formatted the city column to ensure proper casing and eliminate duplicates caused by inconsistent naming (e.g., "delhi" to "Delhi").
+
+3) Extracted time components: Derived Month and Day fields from the order_date column to enable time-series and seasonal analysis.
+
+4) Removed duplicate records: Identified and eliminated duplicate rows to avoid inflating metrics and ensure accuracy in total sales and order counts.
+
+5) Currency normalization: Converted all values in the sales_amount column to USD, some data was originally in Indian Rupees (INR) and some was in USD, using a consistent currency conversion logic, all currency data was stored in a separate column as USD_sales.
+
+## Key Insights
+
+## Dashboard #1
+
+This dashboard explores customer segmentation by gender, marital 
+status, age group, and family size. Male customers contribute to a higher 
+percentage of total sales (56.89%) compared to females. Single individuals and those aged 24
+29 generate the most revenue, while families of size 2 or 3 account for the majority of household purchases. 
+The histogram of customer age shows that most spending comes from individuals between the ages of 22 and 26
 
 
+![2025-04-15_14h49_01](https://github.com/user-attachments/assets/bcbe607b-a5f2-462e-a7fd-2cf3a9811f66)
 
+1. Although smaller households typically spend less, customers from family size of 3 and 4 account for $3.5M roughly in total sales
+
+2. While 24-29 year olds leads in spending, customers aged 30-35 also contribute a noticable share suggesting that mid-career professionals are another valuable segment for potential upselling and retention strategies.
+
+3. With males at 56.89% and females at 43.11% the gap in spending is not drastic. This indicates that current marketing and offerings appeal to both genders fairly well and future campaigns can benefit from being equally gender inclusive rather than overly targeted.
+
+
+## Dashboard #2
+This dashboard breaks down sales performance based on income levels, educational background, 
+and job roles. Customers with a monthly income between ₹25,001 and ₹50,000 contribute the most 
+to spending. Interestingly, students outperform all other occupations with $3.28M in sales. A 
+increase trend is observed in spending as educational qualifications rise, with those who only 
+completed a school education having the lowest average sales and those with a Ph.D having the 
+highest sales.
+
+![2025-04-15_15h11_45](https://github.com/user-attachments/assets/272e812e-c7b2-47f9-a6bf-dc30a63ae375)
+
+1) Homemakers and unemployed customers contribute the least to total sales, indicating a minimal 
+conversion rate from these segments. This suggests that campaigns targeting these groups may not yield 
+strong ROI unless tailored very strategically.
+
+2) With higher education levels, customers with PhD and postgraduate degrees show the highest 
+spending behavior, implying that higher education can correlate with higher purchasing power
+
+3) Students represent the highest sales group by occupation, contributing over $3.28M in total sales.
+
+4) The income bracket of ₹25,001-₹50,000 contributes the highest share (35.18%) of total spending.
+
+
+## Dashboard #3
+This visual focuses on temporal and geographical sales trends. August leads in average sales per month, 
+while Friday is the peak day for spending. Sweets and Tandoori cuisine top the charts in average 
+revenue. Among the most successful restaurants are Janta Snacks and Happy Brew Cafe. Tirupati and 
+Electronic City, Bangalore are two of the six cities contributing the highest total sales.
+
+![2025-04-15_15h15_41](https://github.com/user-attachments/assets/7ca51972-b365-4600-877a-a72f7915ea00)
+
+1) August shows the highest average sales per order, indicating a potential seasonal spike or successful promotional 
+efforts. This makes it a strategic month to model future campaigns around.
+
+2) Sales peak on Fridays, suggesting customers are more likely to order before the weekend begins. Mid-week promotions could be used to balance this peak and reduce weekday drop-offs
+
+3) There is a steep decline in sales on Saturdays and Sundays, possibly due to customers eating out or less 
+dependence on delivery. This highlights an opportunity for weekend specific offers or “family meal” bundles to
+recapture engagement
+
+4) With these 6 top cities it has a suggested  strong customer base or better performing restaurants in their region. Targeted 
+loyalty programs in these cities could help further lock in customer retention.
+
+
+## Dashboard #4
+This dashboard highlights performance over time, showing that 2018 had the highest annual 
+sales. Sales peaked in Q1 and Q4, with noticeable dips in Q3. Although total sales reached 
+$11.89M, there was a YoY sales decline of 58%. A steep drop in revenue is observed for 
+restaurants with lower customer ratings, indicating a strong correlation between higher ratings 
+and increased sales.
+
+![2025-04-15_15h21_26](https://github.com/user-attachments/assets/e7c1db59-b443-4cf3-a21b-0703fd6ed28f)
+
+1) Total sales sit at $11.89M, but there's a -58% YoY sales decline indicating a sharp drop in revenue performance.
+
+2) The highest revenue was in 2018, and there’s been a downward trend since
+ 
+3) Sales are heavily concentrated in restaurants with “Too Few Ratings.” There’s 
+very little contribution from restaurants with 1k+, 5k+, or 10k+ reviews.
+
+4) Q3 (July-September) shows the lowest total sales across all quarters.
+
+5) Months like June, October, and November are visibly weaker in average 
+monthly sales.
+
+
+## Recommendations
+
+1) Develop family focused product bundles or meal deals for smaller family units. Highlight value, 
+convenience, and experience to appeal to this influential customer segment.
+  
+2) Prioritize marketing campaigns on channels frequented by young consumers (24-29 year olds) (e.g., Instagram, 
+YouTube, mobile platforms). Consider tailored promotions for this demographic to maximize engagement and 
+conversions.
+
+3) Develop bundled offers or cashback promotions tailored to the ₹ 25,000-₹ 50,000 income group’s spending 
+capacity. Focus marketing on affordability, value, and convenience for these financially active demographics.
+
+4) Create exclusive student loyalty programs or discounts. Partner with universities or student
+ push targeted offers, maximizing conversions from this high value segment.
+
+5) Use geographically targeted social media ads in the top 6 high performing cities with limited time discounts.
+
+6)  Run promotions/discounts for top performing cuisines and target them for weekdays
+
+7) Highlight best-selling restaurants in app banners or email newsletters to further drive high value traffic
+
+8)  In October, tie promotions to festivals or seasonal events (Diwali, Navratri) to increase emotional appeal and urgency.
+
+9)  Offer discounts in exchange for reviews to boost user-generated content and credibility over time.
+
+10)  Create a “Top Rated This Month” section in the app or site, encouraging users 
+to try and rate new places.
