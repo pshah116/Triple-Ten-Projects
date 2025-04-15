@@ -198,3 +198,16 @@ capacity. Focus marketing on affordability, value, and convenience for these fin
 
 10)  Create a “Top Rated This Month” section in the app or site, encouraging users 
 to try and rate new places.
+
+
+## Assumptions and Caveats
+
+1) Demographic Data Limitations: Some users may have incomplete demographic details (e.g., no marital status or family size), which might limit segmentation depth.
+
+2) “Too Few Ratings” Category: Many restaurants fall under the “Too Few Ratings” group, which limits the reliability of conclusions about performance based on user ratings.
+
+3) Missing Ratings Bias: A significant portion of the dataset contains entries with no rating ("--"), which may bias customer sentiment analysis or insights based on customer feedback.
+
+4) Currency Conversion Rate: It is assumed that the applied currency conversion rate (from INR to USD) remained constant throughout the analysis period. Fluctuations in exchange rates were not accounted for. The data was collected from January 2017- December 2020 where the average currency rate was 1 USD = ₹83.41
+
+5) Customer Demographics Accuracy: Demographic fields like age, gender, and marital status are assumed to be correctly entered by users and reflective of the target audienc
