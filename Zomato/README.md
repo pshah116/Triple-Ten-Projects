@@ -5,7 +5,7 @@
 
 [Main Objectives](#main-objectives)
 
-[Data Structure & Initial Checks](#data-structure-&-initial-checks)
+[Data Structure and Initial Checks](#data-structure-and-initial-checks)
 
 [Executive Summary](#executive-summary)
 
@@ -47,7 +47,7 @@ The dashboards are broken into four key analytical areas:
 
 6) Understand customer behavior patterns to inform targeted promotions, loyalty programs, and personalized offerings.
 
-   ## Data Structure & Initial Checks
+   ## Data Structure and Initial Checks
 ![2025-04-15_14h03_38](https://github.com/user-attachments/assets/b23b7d7d-d448-40d5-9d3d-ad8130dca502)
 
 The data model shown in the image illustrates two primary tables used: orders and users. 
