@@ -19,7 +19,7 @@
 
 ## Project Background
 
-This project explores customer and sales behavior using transactional data from a restaurant or food delivery business. The goal was to create a set of interactive Power BI dashboards that provide meaningful insights into customer demographics, income segmentation, cuisine preferences, sales trends, and restaurant performance. By analyzing this data, the project aims to support data-driven decision-making in areas such as marketing strategy, customer targeting, product positioning, and sales growth opportunities.
+This project explores customer and sales behavior using transactional data from Zomato a food delivery business. The goal was to create a set of interactive Power BI dashboards that provide meaningful insights into customer demographics, income segmentation, cuisine preferences, sales trends, and restaurant performance. By analyzing this data, the project aimed to support data-driven decision-making in areas such as marketing strategy, customer targeting, product positioning, and sales growth opportunities.
 
 The dashboards are broken into four key analytical areas:
 
