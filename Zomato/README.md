@@ -1,4 +1,4 @@
-## ZOMATO SALES & MARKETING PROJECT
+## ZOMATO PROJECT
 
 ## Table of contents
 [Project Background](#project-background)
