@@ -11,8 +11,6 @@
 
 [Data Cleaning](#data-cleaning)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
-
 [Key Insights](#key-insights)
 
 [Recommendations and Next Steps](#recommendations-and-next-steps)
