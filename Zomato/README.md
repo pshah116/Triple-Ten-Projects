@@ -171,7 +171,7 @@ very little contribution from restaurants with 1k+, 5k+, or 10k+ reviews.
 monthly sales.
 
 
-## Recommendations
+## Recommendations and Next Steps
 
 1) Develop family focused product bundles or meal deals for smaller family units. Highlight value, 
 convenience, and experience to appeal to this influential customer segment.
