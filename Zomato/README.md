@@ -45,6 +45,9 @@ The dashboards are broken into four key analytical areas:
 
 6) Understand customer behavior patterns to inform targeted promotions, loyalty programs, and personalized offerings.
 
+   You can access the POWER BI Dashboard [HERE](https://app.powerbi.com/groups/me/reports/05b33951-9c47-4355-b8fa-728411e021f4/3b44a5be1f186e48d3e6?experience=power-bi)
+   
+
    ## Data Structure and Initial Checks
 ![2025-04-15_14h03_38](https://github.com/user-attachments/assets/b23b7d7d-d448-40d5-9d3d-ad8130dca502)
 
