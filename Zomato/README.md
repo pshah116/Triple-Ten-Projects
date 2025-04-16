@@ -135,7 +135,8 @@ spending behavior, implying that higher education can correlate with higher purc
 This visual focuses on temporal and geographical sales trends. August leads in average sales per month, 
 while Friday is the peak day for spending. Sweets and Tandoori cuisine top the charts in average 
 revenue. Among the most successful restaurants are Janta Snacks and Happy Brew Cafe. Tirupati and 
-Electronic City, Bangalore are two of the six cities contributing the highest total sales.
+Electronic City, Bangalore are two of the six cities contributing the highest total sales. You can click on any of the top cities
+to see how they performed.
 
 ![2025-04-15_15h15_41](https://github.com/user-attachments/assets/7ca51972-b365-4600-877a-a72f7915ea00)
 
@@ -157,7 +158,7 @@ This dashboard highlights performance over time, showing that 2018 had the highe
 sales. Sales peaked in Q1 and Q4, with noticeable dips in Q3. Although total sales reached 
 $11.89M, there was a YoY sales decline of 58%. A steep drop in revenue is observed for 
 restaurants with lower customer ratings, indicating a strong correlation between higher ratings 
-and increased sales.
+and increased sales. You can click on ANY restaurant and see how they performed, additoanlly filters on this page include: City, Cuisine
 
 ![2025-04-15_15h21_26](https://github.com/user-attachments/assets/e7c1db59-b443-4cf3-a21b-0703fd6ed28f)
 
