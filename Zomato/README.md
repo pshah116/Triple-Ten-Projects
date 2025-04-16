@@ -158,7 +158,7 @@ This dashboard highlights performance over time, showing that 2018 had the highe
 sales. Sales peaked in Q1 and Q4, with noticeable dips in Q3. Although total sales reached 
 $11.89M, there was a YoY sales decline of 58%. A steep drop in revenue is observed for 
 restaurants with lower customer ratings, indicating a strong correlation between higher ratings 
-and increased sales. You can click on ANY restaurant and see how they performed, additoanlly filters on this page include: City, Cuisine
+and increased sales. You can click on ANY restaurant and see how they performed in sales, additionally filters on this page include: City, Cuisine
 
 ![2025-04-15_15h21_26](https://github.com/user-attachments/assets/e7c1db59-b443-4cf3-a21b-0703fd6ed28f)
 
