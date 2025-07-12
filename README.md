@@ -1,7 +1,7 @@
 
 Portfolio of completed projects I worked on while attending the TripleTen Bootcamp.
 
-| Project number | Title | Description | Skills Used
+| Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Music Streaming Industry](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Music%20Streaming%20Industry) | Business recommendations & insights were presented by me in a google spreadsheet, based on a detailed spreadsheet analysis conducted by senior team members. |
 | 2 | [Shopify Application Analysis](https://github.com/pshah116/Triple-Ten-Projects/tree/main/Shopify%20Application%20Analysis) | Conducted a platform analysis of the Shopify App ecosystem to identify key performance indicators (KPIs) contributing to its overall success using POWER BI |
